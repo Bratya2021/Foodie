@@ -50,15 +50,11 @@ Foodie is the ultimate restaurant table reservation website for food enthusiasts
 
 6. Deploy the project on the Tomcat server.
 
-### Usage
-
-- Access the website at `http://localhost:8080/foodie`
-- Browse and reserve tables at your favorite restaurants.
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
+![Login Page](screenshots/login.png)
+![Signup Page](screenshots/signup.png)
+![Home Page](screenshots/dashboard.png)
 ![Reservation Page](screenshots/reservation.png)
-
-## Video Demonstration
 
