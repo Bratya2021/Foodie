@@ -33,7 +33,7 @@ Foodie is the ultimate restaurant table reservation website for food enthusiasts
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/foodie.git
+    git clone https://github.com/your-username/Foodie.git
     ```
 
 2. Open the project in your IDE.
@@ -49,6 +49,13 @@ Foodie is the ultimate restaurant table reservation website for food enthusiasts
 5. Modify the database configuration in the project to match your MySQL setup.
 
 6. Deploy the project on the Tomcat server.
+
+
+## Collaborator
+This Project is with collaborate with Anirban Sinha
+    ```sh
+    anirban6102
+    ```
 
 
 ## Screenshots
