@@ -52,7 +52,7 @@ Foodie is the ultimate restaurant table reservation website for food enthusiasts
 
 
 ## Collaborator
-This Project is with collaborate with Anirban Sinha
+    This Project is with collaborate with Anirban Sinha
     ```sh
     anirban6102
     ```
